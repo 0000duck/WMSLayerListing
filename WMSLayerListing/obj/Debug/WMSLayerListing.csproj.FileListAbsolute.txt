@@ -1,0 +1,13 @@
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\bin\Debug\WMSLayerListing.exe.config
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\obj\Debug\WMSLayerListing.csprojResolveAssemblyReference.cache
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\obj\Debug\MainWindow.baml
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\obj\Debug\MainWindow.g.cs
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\obj\Debug\App.g.cs
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\obj\Debug\WMSLayerListing_MarkupCompile.cache
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\obj\Debug\WMSLayerListing.g.resources
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\obj\Debug\WMSLayerListing.Properties.Resources.resources
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\obj\Debug\WMSLayerListing.csproj.GenerateResource.Cache
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\bin\Debug\WMSLayerListing.exe
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\bin\Debug\WMSLayerListing.pdb
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\obj\Debug\WMSLayerListing.exe
+c:\users\sachindra\documents\visual studio 2012\Projects\WMSLayerListing\WMSLayerListing\obj\Debug\WMSLayerListing.pdb
